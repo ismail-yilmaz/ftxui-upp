@@ -13,7 +13,12 @@ FTXUI package allows U++ developers to easily use the [FTXUI](https://arthursonz
 - **Easy integration:** Seamlessly works with existing U++ applications
 
 ## Screenshot
+
+### Linux (via Bobcat)
 <img width="857" height="628" alt="resim" src="https://github.com/user-attachments/assets/e52b8c92-6670-4e63-8ee1-11c886a727e1" />
+
+### Windows (via Bobcat)
+<img width="861" height="604" alt="ftxui-window" src="https://github.com/user-attachments/assets/50924a2d-736f-4c50-8394-a65f752ee436" />
 
 ## Examples
 
