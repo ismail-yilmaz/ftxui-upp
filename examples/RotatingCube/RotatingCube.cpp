@@ -1,4 +1,4 @@
-#include <FTXUI/FTXUI.h>
+#include <plugin/FTXUI/FTXUI.h>
 #include <Xform3D/Xform3D.h>
 
 using namespace Upp;

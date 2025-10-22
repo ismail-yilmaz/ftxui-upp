@@ -1,4 +1,4 @@
-#include <FTXUI/FTXUI.h>
+#include <plugin/FTXUI/FTXUI.h>
 
 using namespace ftxui;
 

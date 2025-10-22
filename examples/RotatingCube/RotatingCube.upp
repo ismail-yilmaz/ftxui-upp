@@ -1,8 +1,8 @@
 description "Demonstrates the canvas element of Ftxui\377";
 
 uses
-	FTXUI,
-	Xform3D;
+	Xform3D,
+	plugin/FTXUI;
 
 file
 	RotatingCube.cpp;
