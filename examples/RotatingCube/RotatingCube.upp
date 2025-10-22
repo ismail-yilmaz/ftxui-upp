@@ -1,0 +1,12 @@
+description "Demonstrates the canvas element of Ftxui\377";
+
+uses
+	FTXUI,
+	Xform3D;
+
+file
+	RotatingCube.cpp;
+
+mainconfig
+	"" = "";
+

@@ -1,0 +1,11 @@
+description "Hello world example with FTXUI\377";
+
+uses
+	FTXUI;
+
+file
+	HelloWorld.cpp;
+
+mainconfig
+	"" = "";
+

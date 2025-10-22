@@ -1,0 +1,18 @@
+noblitz;
+
+options(WIN32 & CLANG) -DUNICODE;
+
+options(WIN32 & MSVC) /DUNICODE;
+
+include
+	ftxui/include,
+	ftxui/src;
+
+file
+	FTXUI.h,
+	import.ext,
+	Info readonly separator,
+	ftxui/README.md,
+	ftxui/LICENSE,
+	ftxui/CHANGELOG.md;
+

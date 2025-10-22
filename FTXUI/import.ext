@@ -1,0 +1,15 @@
+include_path
+	ftxui/include
+    ftxui/src
+;
+
+files
+  ftxui/src/ftxui/screen/*
+  ftxui/src/ftxui/dom/*
+  ftxui/src/ftxui/component/*
+;
+
+exclude 
+  ftxui/src/ftxui/*/*test*
+  ftxui/src/ftxui/*/*fuzzer*
+;
